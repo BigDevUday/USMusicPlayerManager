@@ -1,0 +1,16 @@
+PODS:
+  - USMusicPlayerManager (0.1.0)
+
+DEPENDENCIES:
+  - USMusicPlayerManager (from `../`)
+
+EXTERNAL SOURCES:
+  USMusicPlayerManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  USMusicPlayerManager: f8b3c149bb56674ae0746717089f774ee63a10a6
+
+PODFILE CHECKSUM: db4ace9ffee3636c5c7e607e2b3cb39763148183
+
+COCOAPODS: 1.11.3

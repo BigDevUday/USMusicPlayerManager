@@ -1,0 +1,22 @@
+{
+  "name": "USMusicPlayerManager",
+  "version": "0.1.0",
+  "summary": "A short description of USMusicPlayerManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/BigDevUday/USMusicPlayerManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BigDevUday": "uday@theapplabb.com"
+  },
+  "source": {
+    "git": "https://github.com/BigDevUday/USMusicPlayerManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "USMusicPlayerManager/Classes/**/*"
+}
